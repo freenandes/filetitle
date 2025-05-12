@@ -25,6 +25,8 @@ I made this for myself because it matches my workflow. I create new notes based 
 2. Save or click outside the name title field
 3. The file will be immediately renamed to `pao-para-solucos.md`
 
+Note: The behavior should only affect the file being edited at that precise moment. It shouldn't bulk change all other files.
+
 ## Development
 
 1. Clone this

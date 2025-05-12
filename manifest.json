@@ -3,7 +3,7 @@
 	"name": "FileTitle",
 	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Auto-rename the note's filename out of its frontmatter title value on save.",
+	"description": "Auto-renames your note to a kebab-case, accent-free filename based on the YAML frontmatter title.",
 	"author": "Pedro MC Fernandes",
 	"authorUrl": "https://pmcf.xyz",
 	"isDesktopOnly": false

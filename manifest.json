@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "filetitle",
+	"name": "FileTitle",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Auto-rename the note's filename out of its frontmatter title value on save.",
+	"author": "Pedro MC Fernandes",
+	"authorUrl": "https://pmcf.xyz",
 	"isDesktopOnly": false
 }

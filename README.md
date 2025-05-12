@@ -1,6 +1,6 @@
 # Obsidian FileTitle
 
-Auto-renames your note to a kebab-case, accent-free filename based on the YAML frontmatter `title`.
+Auto-renames your Obsidian note to a kebab-case, accent-free filename based on the YAML frontmatter `title`.
 
 ## Why?
 

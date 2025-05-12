@@ -17,11 +17,11 @@ I made this for myself because it matches my workflow. I create new notes based 
 ## Usage
 
 1. Open or create a note with YAML frontmatter, e.g.:
-  ```yaml
-  ---
-  title: Pão para soluços
-  ---
-  ```
+    ```yaml
+    ---
+    title: Pão para soluços
+    ---
+    ```
 2. Save or click outside the name title field
 3. The file will be immediately renamed to `pao-para-solucos.md`
 

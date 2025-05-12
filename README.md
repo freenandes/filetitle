@@ -17,7 +17,7 @@ I made this for myself because it matches my workflow. I create new notes based 
 ## Usage
 
 1. Open or create a note with YAML frontmatter, e.g.:
-    ```yaml
+    ```md
     ---
     title: Pão para soluços
     ---

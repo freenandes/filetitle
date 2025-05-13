@@ -1,7 +1,7 @@
 {
 	"id": "filetitle",
 	"name": "FileTitle",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"minAppVersion": "0.15.0",
 	"description": "Auto-renames your note to a kebab-case, accent-free filename based on the YAML frontmatter title.",
 	"author": "Pedro MC Fernandes",
